@@ -6,4 +6,6 @@ import com.example.demo.entity.Permiso;
 
 public interface PermisoDao extends CrudRepository<Permiso, Long> {
 
+
+
 }
